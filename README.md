@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Harshitha V
+### Register Number:212223230074
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
